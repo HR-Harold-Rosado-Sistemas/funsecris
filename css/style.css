@@ -62,11 +62,27 @@ footer {
 
 .articulo h3 {
   padding-bottom: 15px;
+  font-size: 25px;
+}
+
+.iconos {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.iconos a {
+  text-decoration: none;
+  color: #fff;
+  text-align: center;
+}
+
+.iconos a p {
+  padding-top: 10px;
 }
 
 .iconos i {
   font-size: 40px;
-  padding: 10px;
 }
 
 footer .derechos {
