@@ -77,6 +77,28 @@ nav p {
 
 /* FIN CSS BANNER */
 
+/* CSS MAIN PRINCIPAL */
+
+/* BARRA NUBE */
+.barra-nube {
+  height: 40vh;
+  background-image: url(../img/bannernube.png);
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.text {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 25px;
+}
+/* FIN BARRA NUBE */
+
+/* FIN CSS MAIN */
+
 /* CSS FOOTER */
 
 footer {
