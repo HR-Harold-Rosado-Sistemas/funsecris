@@ -8,5 +8,37 @@
   width: 80%;
   margin: 0 auto;
 
-  outline: 1px solid red;
+  /* outline: 1px solid red; */
+}
+
+/* CSS MENU NAVEGACIÓN */
+
+nav {
+  background: #1a1a1a;
+}
+
+nav p {
+  color: #fff;
+  font-size: 20px;
+}
+
+.navegacion {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 0;
+}
+
+.menu ul {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+
+  list-style-type: none;
+}
+
+.menu ul a {
+  text-decoration: none;
+  color: #fff;
 }
