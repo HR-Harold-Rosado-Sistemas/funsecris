@@ -42,3 +42,35 @@ nav p {
   text-decoration: none;
   color: #fff;
 }
+
+/* CSS FOOTER */
+
+footer {
+  background-color: #1a1a1a;
+  color: #fff;
+}
+
+.datos-footer {
+  display: flex;
+  /* align-items: center; */
+  justify-content: space-between;
+}
+
+.articulo {
+  width: 32%;
+}
+
+.articulo h3 {
+  padding-bottom: 15px;
+}
+
+.iconos i {
+  font-size: 40px;
+  padding: 10px;
+}
+
+footer .derechos {
+  text-align: center;
+  padding: 10px 0;
+  color: #fff;
+}
