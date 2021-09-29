@@ -16,6 +16,10 @@ nav {
   background: #1a1a1a;
 }
 
+.logo img {
+  width: 150px;
+}
+
 nav p {
   color: #fff;
   font-size: 20px;
@@ -61,6 +65,10 @@ nav p {
   align-items: center;
   justify-content: space-evenly;
   color: #fff;
+}
+
+.banner-item img {
+  width: 30%;
 }
 
 .banner-item p {
