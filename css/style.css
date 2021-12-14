@@ -133,11 +133,13 @@ footer {
   align-items: center;
   justify-content: center;
   gap: 16px;
-
-  outline: 1px solid red;
 }
 
 .articulo {
+  width: 100%;
+}
+
+.articulo iframe {
   width: 100%;
 }
 
