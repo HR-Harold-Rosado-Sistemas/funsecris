@@ -161,20 +161,20 @@ nav p {
 }
 
 .apadrinamiento {
+  width: 100%;
+  height: 30vh;
   display: flex;
   align-items: center;
   justify-content: center;
   background-color: #D9D9D9;
-  width: 100%;
-  height: 35vh;
 }
 
 .contribuir {
+  width: 100%;
+  height: 30vh;
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 100%;
-  height: 35vh;
   background-image: url(../img/bk-contribuir.png);
   background-position: center;
   background-repeat: no-repeat;
@@ -189,6 +189,8 @@ nav p {
   padding: 10px 10px;
   text-align: center;
   font-weight: bold;
+
+  border-radius: 10px 0;
 }
 
 .text {
